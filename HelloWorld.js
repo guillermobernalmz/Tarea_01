@@ -1,9 +1,1 @@
-var HelloWorld = {
-	main: function(){
-	console.log("Hello World");
-	}
-}
-HelloWorld.main();
-{
-	window.print()
-}
+Console.log("Hello World!");
